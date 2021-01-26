@@ -29,6 +29,12 @@ const _nav =  [
     icon: 'cil-pencil',
   },
   {
+    _tag: 'CSidebarNavItem',
+    name: 'Sale Report',
+    to: '/salerep/Salerep',
+    icon: 'cil-pencil',
+  },
+  {
     _tag: 'CSidebarNavTitle',
     _children: ['Components']
   },

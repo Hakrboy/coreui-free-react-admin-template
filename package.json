@@ -1,27 +1,20 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
-  "version": "3.2.0",
-  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
+  "name": "aspl-web-app",
+  "version": "1.0.0",
+  "description": "Exclusivly built for Anushree Sarees Pvt. Ltd.",
   "author": {
-    "name": "CoreUI",
-    "url": "https://coreui.io",
-    "github": "https://github.com/coreui",
-    "twitter": "https://twitter.com/core_ui"
+    "name": "ASPL-Web-App",
+    "github": "https://github.com/Hakrboy/aspl-web-app"
   },
   "contributors": [
     {
-      "name": "CoreUI Team",
-      "url": "https://github.com/orgs/coreui/people"
+      "name": "HAKrBOY",
+      "url": "https://github.com/hakrboy/aspl-web-app"
     }
   ],
   "homepage": ".",
-  "copyright": "Copyright 2017-2020 creativeLabs Łukasz Holeczek",
-  "license": "MIT",
+  "copyright": "Copyright 2017-2021 ANUSHREE",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
-  },
   "dependencies": {
     "@coreui/chartjs": "^2.0.0",
     "@coreui/coreui": "^3.4.0",
@@ -59,10 +52,7 @@
     "test:debug": "react-scripts --inspect-brk test --runInBand",
     "eject": "react-scripts eject",
     "changelog": "auto-changelog --starting-version 3.0.0 --commit-limit false --hide-credit"
-  },
-  "bugs": {
-    "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
-  },
+  },,
   "eslintConfig": {
     "extends": "react-app"
   },
